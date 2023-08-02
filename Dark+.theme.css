@@ -20,9 +20,9 @@
   --darkplus-home-icon: url(https://ibb.co/NWZy2Fh);
  --watermark-filter-invert: 0%;
   --watermark-filter-sepia: 0%;
-  --watermark-filter-saturate: 0%;
-  --watermark-filter-hue-rotate: 0deg;
-  --watermark-filter-brightness: 0%;
+  --watermark-filter-saturate: 50%;
+  --watermark-filter-hue-rotate: 229deg;
+  --watermark-filter-brightness: 92%;
   --watermark-filter-contrast: 0%;
   --darkplus-emoji-picker-color: 0deg;
 }
